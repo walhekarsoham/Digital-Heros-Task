@@ -2,12 +2,6 @@
 
 ![Project Banner or Screenshot](screenshot/home.png)
 
-## Live Demo
-[Live URL](https://your-vercel-or-netlify-link.com)
-
-## GitHub Repository
-[GitHub Repo](https://github.com/walhekarsoham/Clothing-Website)
-
 ---
 
 ## About the Project
