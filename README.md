@@ -30,7 +30,7 @@ I built this project to practice full-stack development, authentication, cart ma
 - [x] Wishlist functionality
 - [x] Protected checkout page
 - [x] Responsive design (mobile + desktop)
-- [ ] Admin panel
+- [x] Admin panel
 
 ---
 
@@ -124,18 +124,6 @@ npm run dev
 
 ---
 
-## Environment Variables
-
-Create a `.env` file in the `backend` folder with:
-
-```env
-MONGO_URI=
-JWT_SECRET=
-PORT=5000
-```
-
----
-
 ## API Endpoints
 
 | Method | Endpoint             | Description              |
@@ -146,17 +134,6 @@ PORT=5000
 | POST   | `/api/cart/add`      | Add item to cart         |
 | POST   | `/api/cart/update`   | Update cart quantity     |
 | POST   | `/api/cart/remove`   | Remove item from cart    |
-
----
-
-## Screenshots
-
-| Page | Screenshot |
-|------|------------|
-| Home / Landing | ![Home](./screenshots/home.png) |
-| Product Detail | ![Detail](./screenshots/detail.png) |
-| Cart | ![Cart](./screenshots/cart.png) |
-| Checkout | ![Checkout](./screenshots/checkout.png) |
 
 ---
 
@@ -177,7 +154,3 @@ Email: walhekarsoham07@gmail.com
 [GitHub](https://github.com/walhekarsoham)
 
 ---
-
-## License
-
-MIT
