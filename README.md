@@ -1,6 +1,6 @@
 # Clothing E-Commerce Website
 
-![Project Banner or Screenshot](./home.png)
+![Project Banner or Screenshot](screenshot/home.png)
 
 ## Live Demo
 [Live URL](https://your-vercel-or-netlify-link.com)
